@@ -9,13 +9,13 @@ public class ZoomIn : MonoBehaviour
     private static ZoomIn instance = null;
     bool StartZoom = false;
     [SerializeField] CinemachineTargetGroup targetGroup;
-    [SerializeField] CinemachineVirtualCamera cam;
-    [SerializeField] CinemachineGroupComposer composer;
+    [SerializeField] CinemachineCamera cam; // Updated from CinemachineVirtualCamera
+    [SerializeField] CinemachineGroupFraming composer; // Updated from CinemachineGroupComposer
     Vector3 position;
     internal GameObject Explosion=null;
     [SerializeField] Transform left;
     [SerializeField] Transform right;
-    private LegacyLensSettings originalSettings;
+    private LensSettings originalSettings; // Updated from LegacyLensSettings
 
     internal Transform WhoKilled = null;
 
@@ -46,7 +46,8 @@ public class ZoomIn : MonoBehaviour
                 }
 
             }
-            float k = composer.m_MaximumOrthoSize;
+            // Accessing OrthoSizeRange: .y for max, .x for min
+            float k = composer.OrthoSizeRange.y;
             if (k > 1)
             {
                 k -= 0.02f * Time.deltaTime * 3500;
@@ -59,9 +60,9 @@ public class ZoomIn : MonoBehaviour
                 targetGroup.AddMember(right, 0, 0);
                 StartZoom = false;
                 Time.timeScale = 1f;
-                composer.m_MaximumOrthoSize = 5000;
-                composer.m_MinimumOrthoSize = 6.5f;
-                composer.m_GroupFramingSize = 20;
+                // Setting OrthoSizeRange and FramingSize
+                composer.OrthoSizeRange = new Vector2(6.5f, 5000f);
+                composer.FramingSize = 20f; // GroupFramingSize maps to FramingSize
                 return;
             }
             if (k > 3)
@@ -73,21 +74,21 @@ public class ZoomIn : MonoBehaviour
             {
                 k = 5;
             }
-            composer.m_MaximumOrthoSize = k;
-            if (composer.m_MinimumOrthoSize > 1)
+            composer.OrthoSizeRange.y = k; // Adjusting max ortho size
+            if (composer.OrthoSizeRange.x > 1) // Adjusting min ortho size
             {
-                composer.m_MinimumOrthoSize-=0.3f * Time.deltaTime * 2000;
+                composer.OrthoSizeRange.x -=0.3f * Time.deltaTime * 2000f;
             }
 
-            if (composer.m_GroupFramingSize > 2)
+            if (composer.FramingSize > 2) // Adjusting FramingSize
             {
-                composer.m_GroupFramingSize-=0.3f * Time.deltaTime*2000;
+                composer.FramingSize -=0.3f * Time.deltaTime*2000f;
             }
         }
     }
     public void Show(Vector3 position)
     {
-        originalSettings = cam.m_Lens;
+        originalSettings = cam.Lens;
         this.position = position;
         StartZoom = true;
         if (WhoKilled != null)
@@ -97,9 +98,8 @@ public class ZoomIn : MonoBehaviour
         }
         targetGroup.RemoveMember(left);
         targetGroup.RemoveMember(right);
-        composer.m_FrameDamping = 500;
-        composer.m_HorizontalDamping = 500;
-        composer.m_VerticalDamping = 500;
+        // FrameDamping, HorizontalDamping, VerticalDamping map to a single Vector3 Damping
+        composer.Damping = new Vector3(500f, 500f, 500f);
     }
 
     public void Hide()
