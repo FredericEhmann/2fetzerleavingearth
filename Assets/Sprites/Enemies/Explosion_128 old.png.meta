@@ -1,0 +1,3120 @@
+fileFormatVersion: 2
+guid: 8679865c8a58d0e4383baa88e5f80304
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1100262722687474672
+    second: Explosion_128 old_0
+  - first:
+      213: -7227603304913454040
+    second: Explosion_128 old_1
+  - first:
+      213: -6751386760450566198
+    second: Explosion_128 old_2
+  - first:
+      213: -1020001263442151554
+    second: Explosion_128 old_3
+  - first:
+      213: 8520495658984500123
+    second: Explosion_128 old_4
+  - first:
+      213: 5067273001781085982
+    second: Explosion_128 old_5
+  - first:
+      213: -4954866329940864556
+    second: Explosion_128 old_6
+  - first:
+      213: 3493419660184307144
+    second: Explosion_128 old_7
+  - first:
+      213: -7861703100438961582
+    second: Explosion_128 old_8
+  - first:
+      213: -5816377047618673991
+    second: Explosion_128 old_9
+  - first:
+      213: -1912537931537614939
+    second: Explosion_128 old_10
+  - first:
+      213: -1799819063114472294
+    second: Explosion_128 old_11
+  - first:
+      213: -772200300306037903
+    second: Explosion_128 old_12
+  - first:
+      213: -2276988814605990918
+    second: Explosion_128 old_13
+  - first:
+      213: 2304306627185176344
+    second: Explosion_128 old_14
+  - first:
+      213: 5240821543089366998
+    second: Explosion_128 old_15
+  - first:
+      213: -5697291399977194779
+    second: Explosion_128 old_16
+  - first:
+      213: 3339293276401940080
+    second: Explosion_128 old_17
+  - first:
+      213: 5594498861103587815
+    second: Explosion_128 old_18
+  - first:
+      213: 3341421740294831452
+    second: Explosion_128 old_19
+  - first:
+      213: -6429479028683391010
+    second: Explosion_128 old_20
+  - first:
+      213: -5478984461050689292
+    second: Explosion_128 old_21
+  - first:
+      213: 3849421266855697509
+    second: Explosion_128 old_22
+  - first:
+      213: 820231365437850902
+    second: Explosion_128 old_23
+  - first:
+      213: 1228357191764236625
+    second: Explosion_128 old_24
+  - first:
+      213: -2723386623804029503
+    second: Explosion_128 old_25
+  - first:
+      213: -4978110019825962313
+    second: Explosion_128 old_26
+  - first:
+      213: -2874153665221837494
+    second: Explosion_128 old_27
+  - first:
+      213: 6828244546698916131
+    second: Explosion_128 old_28
+  - first:
+      213: -59272815691188404
+    second: Explosion_128 old_29
+  - first:
+      213: -608528690379123625
+    second: Explosion_128 old_30
+  - first:
+      213: -8125362014632031147
+    second: Explosion_128 old_31
+  - first:
+      213: -403651082748715794
+    second: Explosion_128 old_32
+  - first:
+      213: -4028233897334430804
+    second: Explosion_128 old_33
+  - first:
+      213: -8888674533369301142
+    second: Explosion_128 old_34
+  - first:
+      213: 8982072464145897348
+    second: Explosion_128 old_35
+  - first:
+      213: 4380179408015912928
+    second: Explosion_128 old_36
+  - first:
+      213: -8597477456807524434
+    second: Explosion_128 old_37
+  - first:
+      213: 1982797139475562981
+    second: Explosion_128 old_38
+  - first:
+      213: -7960826300443345378
+    second: Explosion_128 old_39
+  - first:
+      213: -953036349445057479
+    second: Explosion_128 old_40
+  - first:
+      213: 8073101709102154238
+    second: Explosion_128 old_41
+  - first:
+      213: 698146249895014176
+    second: Explosion_128 old_42
+  - first:
+      213: -1866086529709072904
+    second: Explosion_128 old_43
+  - first:
+      213: -1178100829726488699
+    second: Explosion_128 old_44
+  - first:
+      213: -5612511537996401677
+    second: Explosion_128 old_45
+  - first:
+      213: -5833811272786237664
+    second: Explosion_128 old_46
+  - first:
+      213: 8000222790268980658
+    second: Explosion_128 old_47
+  - first:
+      213: 3746592373023211740
+    second: Explosion_128 old_48
+  - first:
+      213: 4773677918952079499
+    second: Explosion_128 old_49
+  - first:
+      213: 1981650033980157190
+    second: Explosion_128 old_50
+  - first:
+      213: 7384549641976417402
+    second: Explosion_128 old_51
+  - first:
+      213: -7201825549210419010
+    second: Explosion_128 old_52
+  - first:
+      213: 668180110052445982
+    second: Explosion_128 old_53
+  - first:
+      213: -959922799819775894
+    second: Explosion_128 old_54
+  - first:
+      213: -1929440677215946975
+    second: Explosion_128 old_55
+  - first:
+      213: 8636863379335858333
+    second: Explosion_128 old_56
+  - first:
+      213: 7701259846570213600
+    second: Explosion_128 old_57
+  - first:
+      213: 288968495893612450
+    second: Explosion_128 old_58
+  - first:
+      213: 9016916457286688285
+    second: Explosion_128 old_59
+  - first:
+      213: -270509994909647200
+    second: Explosion_128 old_60
+  - first:
+      213: -1027725393112958857
+    second: Explosion_128 old_61
+  - first:
+      213: -5881430879901680447
+    second: Explosion_128 old_62
+  - first:
+      213: 8234203508055400513
+    second: Explosion_128 old_63
+  - first:
+      213: -902615624459894025
+    second: Explosion_128 old_64
+  - first:
+      213: -3030737903557164225
+    second: Explosion_128 old_65
+  - first:
+      213: 7575099376445354426
+    second: Explosion_128 old_66
+  - first:
+      213: -2593445466959702227
+    second: Explosion_128 old_67
+  - first:
+      213: -4693308804913003802
+    second: Explosion_128 old_68
+  - first:
+      213: 2911015541421195363
+    second: Explosion_128 old_69
+  - first:
+      213: -847431093398279094
+    second: Explosion_128 old_70
+  - first:
+      213: 8173362855861956507
+    second: Explosion_128 old_71
+  - first:
+      213: 8544448056692640836
+    second: Explosion_128 old_72
+  - first:
+      213: -4448411104597767237
+    second: Explosion_128 old_73
+  - first:
+      213: 5265820905686211692
+    second: Explosion_128 old_74
+  - first:
+      213: 4922959744395678899
+    second: Explosion_128 old_75
+  - first:
+      213: 2432979033776369102
+    second: Explosion_128 old_76
+  - first:
+      213: -3916515841471634557
+    second: Explosion_128 old_77
+  - first:
+      213: 4707999653162786340
+    second: Explosion_128 old_78
+  - first:
+      213: 37223965802690473
+    second: Explosion_128 old_79
+  - first:
+      213: -8864643323114175123
+    second: Explosion_128 old_80
+  - first:
+      213: -6500094131150079305
+    second: Explosion_128 old_81
+  - first:
+      213: -5825760100583438158
+    second: Explosion_128 old_82
+  - first:
+      213: 6751163775572314667
+    second: Explosion_128 old_83
+  - first:
+      213: -5551898973073712489
+    second: Explosion_128 old_84
+  - first:
+      213: -8248439835265258986
+    second: Explosion_128 old_85
+  - first:
+      213: -1220100931839456374
+    second: Explosion_128 old_86
+  - first:
+      213: -142564322926294218
+    second: Explosion_128 old_87
+  - first:
+      213: -1399061341765604455
+    second: Explosion_128 old_88
+  - first:
+      213: 400853037510102895
+    second: Explosion_128 old_89
+  - first:
+      213: 4480849597809090920
+    second: Explosion_128 old_90
+  - first:
+      213: -949045657551134653
+    second: Explosion_128 old_91
+  - first:
+      213: 7276239114690135799
+    second: Explosion_128 old_92
+  - first:
+      213: -4004159004940754438
+    second: Explosion_128 old_93
+  - first:
+      213: -6936252935616968782
+    second: Explosion_128 old_94
+  - first:
+      213: -3153271396438269903
+    second: Explosion_128 old_95
+  - first:
+      213: 8939917101805943097
+    second: Explosion_128 old_96
+  - first:
+      213: -8462416511286354687
+    second: Explosion_128 old_97
+  - first:
+      213: 3332891094775048920
+    second: Explosion_128 old_98
+  - first:
+      213: 8441159605650348666
+    second: Explosion_128 old_99
+  - first:
+      213: 6284368731592515580
+    second: Explosion_128 old_100
+  - first:
+      213: 1267271832850597371
+    second: Explosion_128 old_101
+  - first:
+      213: -3743459015815041643
+    second: Explosion_128 old_102
+  - first:
+      213: -7161717655197579878
+    second: Explosion_128 old_103
+  - first:
+      213: -4584350227522479328
+    second: Explosion_128 old_104
+  - first:
+      213: 7600076131268437535
+    second: Explosion_128 old_105
+  - first:
+      213: 4224972623362796294
+    second: Explosion_128 old_106
+  - first:
+      213: -1165553783320191486
+    second: Explosion_128 old_107
+  - first:
+      213: 4458388335284047438
+    second: Explosion_128 old_108
+  - first:
+      213: -5401392392966172658
+    second: Explosion_128 old_109
+  - first:
+      213: 5273698685250342372
+    second: Explosion_128 old_110
+  - first:
+      213: 277058114665914574
+    second: Explosion_128 old_111
+  - first:
+      213: 1938760417847887750
+    second: Explosion_128 old_112
+  - first:
+      213: -109335379352578970
+    second: Explosion_128 old_113
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosion_128 old_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 134
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb1469ed1be44f00800000000000000
+      internalID: 1100262722687474672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 134
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cb131761562bb90800000000000000
+      internalID: -7227603304913454040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 226
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7911203814e42a0800000000000000
+      internalID: -6751386760450566198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 131
+        width: 126
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77b41e414a38d1f0800000000000000
+      internalID: -1020001263442151554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_4
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 195
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b670888a1ee3670800000000000000
+      internalID: 8520495658984500123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_5
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 242
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17c61392f1925640800000000000000
+      internalID: 5067273001781085982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_6
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 235
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1d45e2357cc3bb0800000000000000
+      internalID: -4954866329940864556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_7
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 224
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5c6a80cae1b7030800000000000000
+      internalID: 3493419660184307144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_8
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 247
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252afb8eeae95e290800000000000000
+      internalID: -7861703100438961582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_9
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 240
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b224f444e3184fa0800000000000000
+      internalID: -5816377047618673991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_10
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 235
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a77d3362ec4575e0800000000000000
+      internalID: -1912537931537614939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_11
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 215
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94e5131912c507e0800000000000000
+      internalID: -1799819063114472294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_12
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 249
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1730fcc0be79845f0800000000000000
+      internalID: -772200300306037903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_13
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 243
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af34fd3bcb28660e0800000000000000
+      internalID: -2276988814605990918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_14
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 240
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f63fe2baa8aff10800000000000000
+      internalID: 2304306627185176344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_15
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 223
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d76e072d632bb840800000000000000
+      internalID: 5240821543089366998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 141
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eaa87248a72fe0b0800000000000000
+      internalID: -5697291399977194779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_17
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 203
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076b9c4ea8d875e20800000000000000
+      internalID: 3339293276401940080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_18
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 147
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e12860c217a3ad40800000000000000
+      internalID: 5594498861103587815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 205
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d7a038e5d1f5e20800000000000000
+      internalID: 3341421740294831452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_20
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 210
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfb08463e6e5c6a0800000000000000
+      internalID: -6429479028683391010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_21
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 219
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8403d59acb6f3b0800000000000000
+      internalID: -5478984461050689292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_22
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 207
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c94c14f34eb6530800000000000000
+      internalID: 3849421266855697509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_23
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 225
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6158e82c41c026b00800000000000000
+      internalID: 820231365437850902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_24
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 224
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15957689b500c0110800000000000000
+      internalID: 1228357191764236625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_25
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 216
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c54c167b46943ad0800000000000000
+      internalID: -2723386623804029503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_26
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 216
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2f577ef433aeab0800000000000000
+      internalID: -4978110019825962313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_27
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 226
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4db09a2874fc18d0800000000000000
+      internalID: -2874153665221837494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_28
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 223
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321bc75dc3cc2ce50800000000000000
+      internalID: 6828244546698916131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_29
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 205
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47b3eb20bb6d2ff0800000000000000
+      internalID: -59272815691188404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_30
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 198
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754915651621e87f0800000000000000
+      internalID: -608528690379123625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_31
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 200
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cc7663c4aec3f80800000000000000
+      internalID: -8125362014632031147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_32
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 205
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec9f879a71f56af0800000000000000
+      internalID: -403651082748715794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_33
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 160
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3a135ec96d818c0800000000000000
+      internalID: -4028233897334430804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_34
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 207
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67367a2b9515a480800000000000000
+      internalID: -8888674533369301142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_35
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 213
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487db3c215bb6ac70800000000000000
+      internalID: 8982072464145897348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_36
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 210
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efe443e6f589cc30800000000000000
+      internalID: 4380179408015912928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_37
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea70f8eedcf9fa880800000000000000
+      internalID: -8597477456807524434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_38
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 164
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e10a183e7f448b10800000000000000
+      internalID: 1982797139475562981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_39
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 209
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ebc7378a6758190800000000000000
+      internalID: -7960826300443345378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_40
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 212
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934da455d7226c2f0800000000000000
+      internalID: -953036349445057479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_41
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 207
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef102a63b3b690070800000000000000
+      internalID: 8073101709102154238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_42
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 204
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f634ab05050b900800000000000000
+      internalID: 698146249895014176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_43
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 212
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd9c8c20345a16e0800000000000000
+      internalID: -1866086529709072904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_44
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 209
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5874f86898b86afe0800000000000000
+      internalID: -1178100829726488699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_45
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 178
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f371f71e7a5c12b0800000000000000
+      internalID: -5612511537996401677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_46
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 194
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02728e66e832a0fa0800000000000000
+      internalID: -5833811272786237664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_47
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 177
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd87f1ad30860f60800000000000000
+      internalID: 8000222790268980658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_48
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 193
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd08c38b9e19ef330800000000000000
+      internalID: 3746592373023211740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_49
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 194
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80c34776c28f3240800000000000000
+      internalID: 4773677918952079499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_50
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 200
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d2788e43c308b10800000000000000
+      internalID: 1981650033980157190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_51
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 201
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c0e3c36c03b7660800000000000000
+      internalID: 7384549641976417402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_52
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 199
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb00bf4e1d9fd0c90800000000000000
+      internalID: -7201825549210419010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_53
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 199
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f48a9154ad54900800000000000000
+      internalID: 668180110052445982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_54
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 199
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60a1f8ac4bada2f0800000000000000
+      internalID: -959922799819775894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_55
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 192
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127ba5b3def3935e0800000000000000
+      internalID: -1929440677215946975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_56
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 187
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98c4e2cb7d4cd770800000000000000
+      internalID: 8636863379335858333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_57
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 130
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e00cc5070f50ea60800000000000000
+      internalID: 7701259846570213600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_58
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 187
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a78405e05f920400800000000000000
+      internalID: 288968495893612450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_59
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 168
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e52f58eb5822d70800000000000000
+      internalID: 9016916457286688285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_60
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 142
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aeb735c794fe3cf0800000000000000
+      internalID: -270509994909647200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_61
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 187
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7787ad83339ccb1f0800000000000000
+      internalID: -1027725393112958857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_62
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 146
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc7270a6c5f06ea0800000000000000
+      internalID: -5881430879901680447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_63
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 171
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140eae1c674c54270800000000000000
+      internalID: 8234203508055400513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_64
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 144
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2c95f2fd34973f0800000000000000
+      internalID: -902615624459894025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_65
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 167
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33c92b2fe7a0f5d0800000000000000
+      internalID: -3030737903557164225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_66
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 177
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1fe4f8fb8202960800000000000000
+      internalID: 7575099376445354426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_67
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 192
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d271585a61b320cd0800000000000000
+      internalID: -2593445466959702227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_68
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 153
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e282f512840edeb0800000000000000
+      internalID: -4693308804913003802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_69
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 165
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3604d023631066820800000000000000
+      internalID: 2911015541421195363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_70
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 188
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cef5219e15d34f0800000000000000
+      internalID: -847431093398279094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_71
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 157
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f260c863e9d6170800000000000000
+      internalID: 8173362855861956507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_72
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 183
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c01f4bc3af39670800000000000000
+      internalID: 8544448056692640836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_73
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 191
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb0c874ba11442c0800000000000000
+      internalID: -4448411104597767237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_74
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 169
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c9046d634f31940800000000000000
+      internalID: 5265820905686211692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_75
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 178
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b49048fdcdd15440800000000000000
+      internalID: 4922959744395678899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_76
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 171
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecda63e6a8da3c120800000000000000
+      internalID: 2432979033776369102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_77
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 188
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383a4efb79db5a9c0800000000000000
+      internalID: -3916515841471634557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_78
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 180
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e1e619dbc265140800000000000000
+      internalID: 4707999653162786340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_79
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 167
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7fccaeffe348000800000000000000
+      internalID: 37223965802690473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_80
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 192
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65cd315dd57af480800000000000000
+      internalID: -8864643323114175123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_81
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 175
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bab232a3d60bc5a0800000000000000
+      internalID: -6500094131150079305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_82
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 172
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b884120e0eb62fa0800000000000000
+      internalID: -5825760100583438158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_83
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 158
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a09774fa3f0bd50800000000000000
+      internalID: 6751163775572314667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_84
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 168
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ad5199c41b3f2b0800000000000000
+      internalID: -5551898973073712489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_85
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 166
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a25d30ca7a78d80800000000000000
+      internalID: -8248439835265258986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_86
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 176
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b0697baa4511fe0800000000000000
+      internalID: -1220100931839456374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_87
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 164
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b855ee082850ef0800000000000000
+      internalID: -142564322926294218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_88
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 129
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b64194f19859ce0800000000000000
+      internalID: -1399061341765604455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_89
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 149
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f0debb6bd109500800000000000000
+      internalID: 400853037510102895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_90
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 155
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861ec59f7fc2f2e30800000000000000
+      internalID: 4480849597809090920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_91
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 145
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340a902b00054d2f0800000000000000
+      internalID: -949045657551134653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_92
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 143
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f688e37ce46af460800000000000000
+      internalID: 7276239114690135799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_93
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 150
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af12356999e5e68c0800000000000000
+      internalID: -4004159004940754438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_94
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 133
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b74a4474ba7dbf90800000000000000
+      internalID: -6936252935616968782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_95
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 144
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130a5e62f545d34d0800000000000000
+      internalID: -3153271396438269903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_96
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 146
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93935960d37f01c70800000000000000
+      internalID: 8939917101805943097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_97
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 128
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d506fc4057f8a80800000000000000
+      internalID: -8462416511286354687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_98
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 133
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da2123dacec04e20800000000000000
+      internalID: 3332891094775048920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_99
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 128
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a5a2b20f5052570800000000000000
+      internalID: 8441159605650348666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_100
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 135
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffd42cb010963750800000000000000
+      internalID: 6284368731592515580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_101
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 128
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf50be68401469110800000000000000
+      internalID: 1267271832850597371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_102
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 132
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d6c1bdbdf8c0cc0800000000000000
+      internalID: -3743459015815041643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_103
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 128
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a950e4cacb77c9c90800000000000000
+      internalID: -7161717655197579878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_104
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 128
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b9a8ac1cd1160c0800000000000000
+      internalID: -4584350227522479328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_105
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 37
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f162e2679f4e87960800000000000000
+      internalID: 7600076131268437535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_106
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 30
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b2a41573e12aa30800000000000000
+      internalID: 4224972623362796294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_107
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 90
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e569a620f13dfe0800000000000000
+      internalID: -1165553783320191486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 66
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ec953c1906fdd30800000000000000
+      internalID: 4458388335284047438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_109
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0011c48c366a05b0800000000000000
+      internalID: -5401392392966172658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_110
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 59
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed8ac25301ff2940800000000000000
+      internalID: 5273698685250342372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_111
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 42
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec02dca23ee48d300800000000000000
+      internalID: 277058114665914574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_112
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687496af35cd7ea10800000000000000
+      internalID: 1938760417847887750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_128 old_113
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 16
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6649e404d009b7ef0800000000000000
+      internalID: -109335379352578970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Explosion_128 old_0: 1100262722687474672
+      Explosion_128 old_1: -7227603304913454040
+      Explosion_128 old_10: -1912537931537614939
+      Explosion_128 old_100: 6284368731592515580
+      Explosion_128 old_101: 1267271832850597371
+      Explosion_128 old_102: -3743459015815041643
+      Explosion_128 old_103: -7161717655197579878
+      Explosion_128 old_104: -4584350227522479328
+      Explosion_128 old_105: 7600076131268437535
+      Explosion_128 old_106: 4224972623362796294
+      Explosion_128 old_107: -1165553783320191486
+      Explosion_128 old_108: 4458388335284047438
+      Explosion_128 old_109: -5401392392966172658
+      Explosion_128 old_11: -1799819063114472294
+      Explosion_128 old_110: 5273698685250342372
+      Explosion_128 old_111: 277058114665914574
+      Explosion_128 old_112: 1938760417847887750
+      Explosion_128 old_113: -109335379352578970
+      Explosion_128 old_12: -772200300306037903
+      Explosion_128 old_13: -2276988814605990918
+      Explosion_128 old_14: 2304306627185176344
+      Explosion_128 old_15: 5240821543089366998
+      Explosion_128 old_16: -5697291399977194779
+      Explosion_128 old_17: 3339293276401940080
+      Explosion_128 old_18: 5594498861103587815
+      Explosion_128 old_19: 3341421740294831452
+      Explosion_128 old_2: -6751386760450566198
+      Explosion_128 old_20: -6429479028683391010
+      Explosion_128 old_21: -5478984461050689292
+      Explosion_128 old_22: 3849421266855697509
+      Explosion_128 old_23: 820231365437850902
+      Explosion_128 old_24: 1228357191764236625
+      Explosion_128 old_25: -2723386623804029503
+      Explosion_128 old_26: -4978110019825962313
+      Explosion_128 old_27: -2874153665221837494
+      Explosion_128 old_28: 6828244546698916131
+      Explosion_128 old_29: -59272815691188404
+      Explosion_128 old_3: -1020001263442151554
+      Explosion_128 old_30: -608528690379123625
+      Explosion_128 old_31: -8125362014632031147
+      Explosion_128 old_32: -403651082748715794
+      Explosion_128 old_33: -4028233897334430804
+      Explosion_128 old_34: -8888674533369301142
+      Explosion_128 old_35: 8982072464145897348
+      Explosion_128 old_36: 4380179408015912928
+      Explosion_128 old_37: -8597477456807524434
+      Explosion_128 old_38: 1982797139475562981
+      Explosion_128 old_39: -7960826300443345378
+      Explosion_128 old_4: 8520495658984500123
+      Explosion_128 old_40: -953036349445057479
+      Explosion_128 old_41: 8073101709102154238
+      Explosion_128 old_42: 698146249895014176
+      Explosion_128 old_43: -1866086529709072904
+      Explosion_128 old_44: -1178100829726488699
+      Explosion_128 old_45: -5612511537996401677
+      Explosion_128 old_46: -5833811272786237664
+      Explosion_128 old_47: 8000222790268980658
+      Explosion_128 old_48: 3746592373023211740
+      Explosion_128 old_49: 4773677918952079499
+      Explosion_128 old_5: 5067273001781085982
+      Explosion_128 old_50: 1981650033980157190
+      Explosion_128 old_51: 7384549641976417402
+      Explosion_128 old_52: -7201825549210419010
+      Explosion_128 old_53: 668180110052445982
+      Explosion_128 old_54: -959922799819775894
+      Explosion_128 old_55: -1929440677215946975
+      Explosion_128 old_56: 8636863379335858333
+      Explosion_128 old_57: 7701259846570213600
+      Explosion_128 old_58: 288968495893612450
+      Explosion_128 old_59: 9016916457286688285
+      Explosion_128 old_6: -4954866329940864556
+      Explosion_128 old_60: -270509994909647200
+      Explosion_128 old_61: -1027725393112958857
+      Explosion_128 old_62: -5881430879901680447
+      Explosion_128 old_63: 8234203508055400513
+      Explosion_128 old_64: -902615624459894025
+      Explosion_128 old_65: -3030737903557164225
+      Explosion_128 old_66: 7575099376445354426
+      Explosion_128 old_67: -2593445466959702227
+      Explosion_128 old_68: -4693308804913003802
+      Explosion_128 old_69: 2911015541421195363
+      Explosion_128 old_7: 3493419660184307144
+      Explosion_128 old_70: -847431093398279094
+      Explosion_128 old_71: 8173362855861956507
+      Explosion_128 old_72: 8544448056692640836
+      Explosion_128 old_73: -4448411104597767237
+      Explosion_128 old_74: 5265820905686211692
+      Explosion_128 old_75: 4922959744395678899
+      Explosion_128 old_76: 2432979033776369102
+      Explosion_128 old_77: -3916515841471634557
+      Explosion_128 old_78: 4707999653162786340
+      Explosion_128 old_79: 37223965802690473
+      Explosion_128 old_8: -7861703100438961582
+      Explosion_128 old_80: -8864643323114175123
+      Explosion_128 old_81: -6500094131150079305
+      Explosion_128 old_82: -5825760100583438158
+      Explosion_128 old_83: 6751163775572314667
+      Explosion_128 old_84: -5551898973073712489
+      Explosion_128 old_85: -8248439835265258986
+      Explosion_128 old_86: -1220100931839456374
+      Explosion_128 old_87: -142564322926294218
+      Explosion_128 old_88: -1399061341765604455
+      Explosion_128 old_89: 400853037510102895
+      Explosion_128 old_9: -5816377047618673991
+      Explosion_128 old_90: 4480849597809090920
+      Explosion_128 old_91: -949045657551134653
+      Explosion_128 old_92: 7276239114690135799
+      Explosion_128 old_93: -4004159004940754438
+      Explosion_128 old_94: -6936252935616968782
+      Explosion_128 old_95: -3153271396438269903
+      Explosion_128 old_96: 8939917101805943097
+      Explosion_128 old_97: -8462416511286354687
+      Explosion_128 old_98: 3332891094775048920
+      Explosion_128 old_99: 8441159605650348666
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

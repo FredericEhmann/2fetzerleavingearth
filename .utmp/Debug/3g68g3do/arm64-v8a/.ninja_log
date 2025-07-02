@@ -1,0 +1,23 @@
+# ninja log v5
+58	256	7564819851101628	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	c4a4d5e323f63bc
+5	1546	7564819863914804	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d5fe2612cf1e6ff
+12	1277	7564819861239556	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	2b358a7214c4938f
+50	1346	7564819861940486	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	2107aa4f21c75bec
+25	1285	7564819861315103	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	d0aa21e9d15938b6
+19	1376	7564819862274234	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	b4ef888c693548bf
+257	389	7564819852325189	D:/Dropbox/udemycourses/unitymobilecourse/spaceshootermobile/Space Shooter Mobile/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/3g68g3do/obj/arm64-v8a/libswappywrapper.so	30fa08524060f201
+1547	1660	7564819865048560	D:/Dropbox/udemycourses/unitymobilecourse/spaceshootermobile/Space Shooter Mobile/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/3g68g3do/obj/arm64-v8a/libgame.so	c1f860de9d0cd474
+30	1343	7564819861915193	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	fe7046c7638a08e2
+37	1500	7564819863501895	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	c7d000ae0178af9c
+43	1260	7564819861067430	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	b2e12dae97cb51ca
+89	402	7564965294860831	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	c4a4d5e323f63bc
+403	1501	7564965303393135	D:/Dropbox/udemycourses/unitymobilecourse/spaceshootermobile/Space Shooter Mobile/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/3g68g3do/obj/arm64-v8a/libswappywrapper.so	30fa08524060f201
+63	1556	7564965306358240	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	fe7046c7638a08e2
+15	1567	7564965306570180	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	d0aa21e9d15938b6
+80	1748	7564965308603817	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	2107aa4f21c75bec
+29	1767	7564965308821433	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	b4ef888c693548bf
+45	1832	7564965309535637	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	b2e12dae97cb51ca
+21	1847	7564965309684739	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	2b358a7214c4938f
+37	1865	7564965309844814	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	c7d000ae0178af9c
+6	1955	7564965310748679	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d5fe2612cf1e6ff
+1955	2117	7564965311630956	D:/Dropbox/udemycourses/unitymobilecourse/spaceshootermobile/Space Shooter Mobile/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/3g68g3do/obj/arm64-v8a/libgame.so	c1f860de9d0cd474

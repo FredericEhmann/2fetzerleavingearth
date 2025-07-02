@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: a9871dbef3007f04086e5c03edc750bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6536659242837874134
+    second: Background_Stars_1024x2048 - Copy_0
+  - first:
+      213: 2998176432661834082
+    second: Background_Stars_1024x2048 - Copy_1
+  - first:
+      213: -8417216019420416662
+    second: Background_Stars_1024x2048 - Copy_2
+  - first:
+      213: -3879818228524904878
+    second: Background_Stars_1024x2048 - Copy_3
+  - first:
+      213: -4186773143874276901
+    second: Background_Stars_1024x2048 - Copy_4
+  - first:
+      213: -5021136925966664395
+    second: Background_Stars_1024x2048 - Copy_5
+  - first:
+      213: 5161495026173115019
+    second: Background_Stars_1024x2048 - Copy_6
+  - first:
+      213: 2428708514395115849
+    second: Background_Stars_1024x2048 - Copy_7
+  - first:
+      213: -5369733236989346961
+    second: Background_Stars_1024x2048 - Copy_8
+  - first:
+      213: 5780006093167301140
+    second: Background_Stars_1024x2048 - Copy_9
+  - first:
+      213: -2791233544620659759
+    second: Background_Stars_1024x2048 - Copy_10
+  - first:
+      213: 3801157547693503259
+    second: Background_Stars_1024x2048 - Copy_11
+  - first:
+      213: -2327873373784667267
+    second: Background_Stars_1024x2048 - Copy_12
+  - first:
+      213: -3776054154708931781
+    second: Background_Stars_1024x2048 - Copy_13
+  - first:
+      213: 7514626468572707031
+    second: Background_Stars_1024x2048 - Copy_14
+  - first:
+      213: 874550844944799999
+    second: Background_Stars_1024x2048 - Copy_15
+  - first:
+      213: -4244168719701194559
+    second: Background_Stars_1024x2048 - Copy_16
+  - first:
+      213: 3319054538900472582
+    second: Background_Stars_1024x2048 - Copy_17
+  - first:
+      213: 20572159687133221
+    second: Background_Stars_1024x2048 - Copy_18
+  - first:
+      213: -8914172788454407410
+    second: Background_Stars_1024x2048 - Copy_19
+  - first:
+      213: 7451986526397384727
+    second: Background_Stars_1024x2048 - Copy_20
+  - first:
+      213: -4172562652007577390
+    second: Background_Stars_1024x2048 - Copy_21
+  - first:
+      213: -8445532383117535452
+    second: Background_Stars_1024x2048 - Copy_22
+  - first:
+      213: 6350660882203888646
+    second: Background_Stars_1024x2048 - Copy_23
+  - first:
+      213: 4100108038664110224
+    second: Background_Stars_1024x2048 - Copy_24
+  - first:
+      213: 6333830140943961412
+    second: Background_Stars_1024x2048 - Copy_25
+  - first:
+      213: -4688997274295790684
+    second: Background_Stars_1024x2048 - Copy_26
+  - first:
+      213: -2176110661665287609
+    second: Background_Stars_1024x2048 - Copy_27
+  - first:
+      213: 3599194884084283785
+    second: Background_Stars_1024x2048 - Copy_28
+  - first:
+      213: -5826624747528897506
+    second: Background_Stars_1024x2048 - Copy_29
+  - first:
+      213: 3163975263353336851
+    second: Background_Stars_1024x2048 - Copy_30
+  - first:
+      213: -6111504021376492111
+    second: Background_Stars_1024x2048 - Copy_31
+  - first:
+      213: -7572821367319902933
+    second: Background_Stars_1024x2048 - Copy_32
+  - first:
+      213: -1838398590335108857
+    second: Background_Stars_1024x2048 - Copy_33
+  - first:
+      213: 6416707021046009784
+    second: Background_Stars_1024x2048 - Copy_34
+  - first:
+      213: -641413601725317319
+    second: Background_Stars_1024x2048 - Copy_35
+  - first:
+      213: 3396387814226164947
+    second: Background_Stars_1024x2048 - Copy_36
+  - first:
+      213: 329877967139602726
+    second: Background_Stars_1024x2048 - Copy_37
+  - first:
+      213: 5188314112631649551
+    second: Background_Stars_1024x2048 - Copy_38
+  - first:
+      213: 246310073206443405
+    second: Background_Stars_1024x2048 - Copy_39
+  - first:
+      213: -302832334799463594
+    second: Background_Stars_1024x2048 - Copy_40
+  - first:
+      213: 1745658991224946537
+    second: Background_Stars_1024x2048 - Copy_41
+  - first:
+      213: 2715475242667036873
+    second: Background_Stars_1024x2048 - Copy_42
+  - first:
+      213: -502328294410949564
+    second: Background_Stars_1024x2048 - Copy_43
+  - first:
+      213: -2742660122862236493
+    second: Background_Stars_1024x2048 - Copy_44
+  - first:
+      213: -2296089327748031073
+    second: Background_Stars_1024x2048 - Copy_45
+  - first:
+      213: 5927234703395285450
+    second: Background_Stars_1024x2048 - Copy_46
+  - first:
+      213: -468346765259704296
+    second: Background_Stars_1024x2048 - Copy_47
+  - first:
+      213: -5074310067097762506
+    second: Background_Stars_1024x2048 - Copy_48
+  - first:
+      213: 6999562309163127705
+    second: Background_Stars_1024x2048 - Copy_49
+  - first:
+      213: 3613492652296604806
+    second: Background_Stars_1024x2048 - Copy_50
+  - first:
+      213: -5018870366737909919
+    second: Background_Stars_1024x2048 - Copy_51
+  - first:
+      213: -2459137022444963561
+    second: Background_Stars_1024x2048 - Copy_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1975
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2aefd42d0f1945a0800000000000000
+      internalID: -6536659242837874134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1960
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269a1ca9499ab9920800000000000000
+      internalID: 2998176432661834082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1931
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65f7bc60aa003b80800000000000000
+      internalID: -8417216019420416662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1916
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e00b790ed182ac0800000000000000
+      internalID: -3879818228524904878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1861
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd17a34120895e5c0800000000000000
+      internalID: -4186773143874276901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1757
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53df827a196515ab0800000000000000
+      internalID: -5021136925966664395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1768
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a7ef8216051a740800000000000000
+      internalID: 5161495026173115019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1754
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941dc77a68184b120800000000000000
+      internalID: 2428708514395115849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1687
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b34ae2210ea75b0800000000000000
+      internalID: -5369733236989346961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1696
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41294defae4b63050800000000000000
+      internalID: 5780006093167301140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1669
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db2bb731eb8349d0800000000000000
+      internalID: -2791233544620659759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1607
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13f09576ac60c430800000000000000
+      internalID: 3801157547693503259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1528
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b8979008bb1bfd0800000000000000
+      internalID: -2327873373784667267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_13
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1488
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bafefa0c2c89bc0800000000000000
+      internalID: -3776054154708931781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1453
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8360f75f0594860800000000000000
+      internalID: 7514626468572707031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_15
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1373
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8d3f22c57032c00800000000000000
+      internalID: 874550844944799999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_16
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1320
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8c267390fa915c0800000000000000
+      internalID: -4244168719701194559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_17
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1311
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6038f4d9486af0e20800000000000000
+      internalID: 3319054538900472582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_18
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1304
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5280a6e2546194000800000000000000
+      internalID: 20572159687133221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_19
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1284
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03c8b5041f7a4480800000000000000
+      internalID: -8914172788454407410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1274
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718c9e07346ca6760800000000000000
+      internalID: 7451986526397384727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_21
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1170
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8c60c00641816c0800000000000000
+      internalID: -4172562652007577390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_22
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1095
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427983d3b017bca80800000000000000
+      internalID: -8445532383117535452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_23
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1100
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c4bb4dc64122850800000000000000
+      internalID: 6350660882203888646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_24
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1064
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0904c41b98286e830800000000000000
+      internalID: 4100108038664110224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_25
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1054
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d80a284f846e750800000000000000
+      internalID: 6333830140943961412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_26
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1021
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a313d882d55deeb0800000000000000
+      internalID: -4688997274295790684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_27
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1029
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742108bf1e6ecc1e0800000000000000
+      internalID: -2176110661665287609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_28
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1010
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9893f3f7da8e2f130800000000000000
+      internalID: 3599194884084283785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_29
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 950
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c3a04b9aba32fa0800000000000000
+      internalID: -5826624747528897506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_30
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 912
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3147c421db2b8eb20800000000000000
+      internalID: 3163975263353336851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_31
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 869
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd9b7209739f2ba0800000000000000
+      internalID: -6111504021376492111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_32
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 842
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25c865c61fe7e690800000000000000
+      internalID: -7572821367319902933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_33
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 752
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7093f7be832bc76e0800000000000000
+      internalID: -1838398590335108857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 712
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfc339d909bc0950800000000000000
+      internalID: 6416707021046009784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_35
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 716
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ffe034abd3917f0800000000000000
+      internalID: -641413601725317319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_36
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 691
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc7a62e8b4622f20800000000000000
+      internalID: 3396387814226164947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_37
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 694
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621859a6346f39400800000000000000
+      internalID: 329877967139602726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_38
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 677
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f053e825238900840800000000000000
+      internalID: 5188314112631649551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_39
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 613
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d0212e4b11b6300800000000000000
+      internalID: 246310073206443405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_40
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 525
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b96c1989f1ccbf0800000000000000
+      internalID: -302832334799463594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_41
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 498
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ffde68a93d93810800000000000000
+      internalID: 1745658991224946537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_42
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 465
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c05983985e4fa520800000000000000
+      internalID: 2715475242667036873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_43
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 456
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ce103e31f5709f0800000000000000
+      internalID: -502328294410949564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_44
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 458
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcca25462d10f9d0800000000000000
+      internalID: -2742660122862236493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_45
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 400
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d530febe6a220e0800000000000000
+      internalID: -2296089327748031073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_46
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 341
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac96e341f84c14250800000000000000
+      internalID: 5927234703395285450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_47
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 314
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818fdf039191089f0800000000000000
+      internalID: -468346765259704296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_48
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 255
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635037af0ed6499b0800000000000000
+      internalID: -5074310067097762506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_49
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 234
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99391ecb5d0732160800000000000000
+      internalID: 6999562309163127705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_50
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 137
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c8f921c64b52230800000000000000
+      internalID: 3613492652296604806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_51
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 108
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1673ad81ef3695ab0800000000000000
+      internalID: -5018870366737909919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Stars_1024x2048 - Copy_52
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 54
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719f72b38e36fddd0800000000000000
+      internalID: -2459137022444963561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Background_Stars_1024x2048 - Copy_0: -6536659242837874134
+      Background_Stars_1024x2048 - Copy_1: 2998176432661834082
+      Background_Stars_1024x2048 - Copy_10: -2791233544620659759
+      Background_Stars_1024x2048 - Copy_11: 3801157547693503259
+      Background_Stars_1024x2048 - Copy_12: -2327873373784667267
+      Background_Stars_1024x2048 - Copy_13: -3776054154708931781
+      Background_Stars_1024x2048 - Copy_14: 7514626468572707031
+      Background_Stars_1024x2048 - Copy_15: 874550844944799999
+      Background_Stars_1024x2048 - Copy_16: -4244168719701194559
+      Background_Stars_1024x2048 - Copy_17: 3319054538900472582
+      Background_Stars_1024x2048 - Copy_18: 20572159687133221
+      Background_Stars_1024x2048 - Copy_19: -8914172788454407410
+      Background_Stars_1024x2048 - Copy_2: -8417216019420416662
+      Background_Stars_1024x2048 - Copy_20: 7451986526397384727
+      Background_Stars_1024x2048 - Copy_21: -4172562652007577390
+      Background_Stars_1024x2048 - Copy_22: -8445532383117535452
+      Background_Stars_1024x2048 - Copy_23: 6350660882203888646
+      Background_Stars_1024x2048 - Copy_24: 4100108038664110224
+      Background_Stars_1024x2048 - Copy_25: 6333830140943961412
+      Background_Stars_1024x2048 - Copy_26: -4688997274295790684
+      Background_Stars_1024x2048 - Copy_27: -2176110661665287609
+      Background_Stars_1024x2048 - Copy_28: 3599194884084283785
+      Background_Stars_1024x2048 - Copy_29: -5826624747528897506
+      Background_Stars_1024x2048 - Copy_3: -3879818228524904878
+      Background_Stars_1024x2048 - Copy_30: 3163975263353336851
+      Background_Stars_1024x2048 - Copy_31: -6111504021376492111
+      Background_Stars_1024x2048 - Copy_32: -7572821367319902933
+      Background_Stars_1024x2048 - Copy_33: -1838398590335108857
+      Background_Stars_1024x2048 - Copy_34: 6416707021046009784
+      Background_Stars_1024x2048 - Copy_35: -641413601725317319
+      Background_Stars_1024x2048 - Copy_36: 3396387814226164947
+      Background_Stars_1024x2048 - Copy_37: 329877967139602726
+      Background_Stars_1024x2048 - Copy_38: 5188314112631649551
+      Background_Stars_1024x2048 - Copy_39: 246310073206443405
+      Background_Stars_1024x2048 - Copy_4: -4186773143874276901
+      Background_Stars_1024x2048 - Copy_40: -302832334799463594
+      Background_Stars_1024x2048 - Copy_41: 1745658991224946537
+      Background_Stars_1024x2048 - Copy_42: 2715475242667036873
+      Background_Stars_1024x2048 - Copy_43: -502328294410949564
+      Background_Stars_1024x2048 - Copy_44: -2742660122862236493
+      Background_Stars_1024x2048 - Copy_45: -2296089327748031073
+      Background_Stars_1024x2048 - Copy_46: 5927234703395285450
+      Background_Stars_1024x2048 - Copy_47: -468346765259704296
+      Background_Stars_1024x2048 - Copy_48: -5074310067097762506
+      Background_Stars_1024x2048 - Copy_49: 6999562309163127705
+      Background_Stars_1024x2048 - Copy_5: -5021136925966664395
+      Background_Stars_1024x2048 - Copy_50: 3613492652296604806
+      Background_Stars_1024x2048 - Copy_51: -5018870366737909919
+      Background_Stars_1024x2048 - Copy_52: -2459137022444963561
+      Background_Stars_1024x2048 - Copy_6: 5161495026173115019
+      Background_Stars_1024x2048 - Copy_7: 2428708514395115849
+      Background_Stars_1024x2048 - Copy_8: -5369733236989346961
+      Background_Stars_1024x2048 - Copy_9: 5780006093167301140
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

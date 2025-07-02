@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 0ee3d114246655242999769e243b7852
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4163476088994052222
+    second: Jet_Effect_128 - Copy_0
+  - first:
+      213: -8087646453961064471
+    second: Jet_Effect_128 - Copy_1
+  - first:
+      213: -333782351460182821
+    second: Jet_Effect_128 - Copy_2
+  - first:
+      213: 8193735113683581673
+    second: Jet_Effect_128 - Copy_3
+  - first:
+      213: -3484463279213619105
+    second: Jet_Effect_128 - Copy_4
+  - first:
+      213: -2761448890260676355
+    second: Jet_Effect_128 - Copy_5
+  - first:
+      213: -8667538002632359178
+    second: Jet_Effect_128 - Copy_6
+  - first:
+      213: 269351385163672081
+    second: Jet_Effect_128 - Copy_7
+  - first:
+      213: -4865727012211881469
+    second: Jet_Effect_128 - Copy_8
+  - first:
+      213: 7268320810322127430
+    second: Jet_Effect_128 - Copy_9
+  - first:
+      213: 7616195579844459256
+    second: Jet_Effect_128 - Copy_10
+  - first:
+      213: 6762166997416194483
+    second: Jet_Effect_128 - Copy_11
+  - first:
+      213: -3895486863127482711
+    second: Jet_Effect_128 - Copy_12
+  - first:
+      213: -5124515432281143269
+    second: Jet_Effect_128 - Copy_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jet_Effect_128 - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 189
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78b253a173a7c930800000000000000
+      internalID: 4163476088994052222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet_Effect_128 - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 180
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eff3ba7668e2cf80800000000000000
+      internalID: -8087646453961064471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet_Effect_128 - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 183
+        width: 86
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4dbe448ba2e5bf0800000000000000
+      internalID: -333782351460182821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet_Effect_128 - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 176
+        width: 99
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea31c27caef5b170800000000000000
+      internalID: 8193735113683581673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet_Effect_128 - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 185
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f585499eb13b4afc0800000000000000
+      internalID: -3484463279213619105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet_Effect_128 - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 183
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0ad967ddc5da9d0800000000000000
+      internalID: -2761448890260676355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet_Effect_128 - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 188
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f246e3fb18b6b780800000000000000
+      internalID: -8667538002632359178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet_Effect_128 - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 181
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11aa07068adecb300800000000000000
+      internalID: 269351385163672081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet_Effect_128 - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 61
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a8617ef07797cb0800000000000000
+      internalID: -4865727012211881469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet_Effect_128 - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 52
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a64dc84434ed460800000000000000
+      internalID: 7268320810322127430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet_Effect_128 - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 54
+        width: 85
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa778c078922b960800000000000000
+      internalID: 7616195579844459256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet_Effect_128 - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 46
+        width: 99
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1bcd08e0b08dd50800000000000000
+      internalID: 6762166997416194483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet_Effect_128 - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 57
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aee510565370f9c0800000000000000
+      internalID: -3895486863127482711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet_Effect_128 - Copy_13
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 55
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1800ec7d5012e8b0800000000000000
+      internalID: -5124515432281143269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Jet_Effect_128 - Copy_0: 4163476088994052222
+      Jet_Effect_128 - Copy_1: -8087646453961064471
+      Jet_Effect_128 - Copy_10: 7616195579844459256
+      Jet_Effect_128 - Copy_11: 6762166997416194483
+      Jet_Effect_128 - Copy_12: -3895486863127482711
+      Jet_Effect_128 - Copy_13: -5124515432281143269
+      Jet_Effect_128 - Copy_2: -333782351460182821
+      Jet_Effect_128 - Copy_3: 8193735113683581673
+      Jet_Effect_128 - Copy_4: -3484463279213619105
+      Jet_Effect_128 - Copy_5: -2761448890260676355
+      Jet_Effect_128 - Copy_6: -8667538002632359178
+      Jet_Effect_128 - Copy_7: 269351385163672081
+      Jet_Effect_128 - Copy_8: -4865727012211881469
+      Jet_Effect_128 - Copy_9: 7268320810322127430
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
