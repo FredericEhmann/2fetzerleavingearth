@@ -1,0 +1,5538 @@
+fileFormatVersion: 2
+guid: 83a2e283645540e46b0a6d0f3fed9d02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1500086918676306263
+    second: FetzerGames Logo_0
+  - first:
+      213: -6760248468995130802
+    second: FetzerGames Logo_1
+  - first:
+      213: 6042759714940145942
+    second: FetzerGames Logo_2
+  - first:
+      213: -1298311473429533890
+    second: FetzerGames Logo_3
+  - first:
+      213: -9219725566455769753
+    second: FetzerGames Logo_4
+  - first:
+      213: -7970583925027446668
+    second: FetzerGames Logo_5
+  - first:
+      213: 6551929730595712894
+    second: FetzerGames Logo_6
+  - first:
+      213: 3980558219773226019
+    second: FetzerGames Logo_7
+  - first:
+      213: -2511514912537603195
+    second: FetzerGames Logo_8
+  - first:
+      213: 6040187828861462204
+    second: FetzerGames Logo_9
+  - first:
+      213: 1702640245914509145
+    second: FetzerGames Logo_10
+  - first:
+      213: 6018188164338202522
+    second: FetzerGames Logo_11
+  - first:
+      213: -7414149820059656824
+    second: FetzerGames Logo_12
+  - first:
+      213: -1948459438812336712
+    second: FetzerGames Logo_13
+  - first:
+      213: 4867870756520704382
+    second: FetzerGames Logo_14
+  - first:
+      213: -776292487877341675
+    second: FetzerGames Logo_15
+  - first:
+      213: -5218487299458377413
+    second: FetzerGames Logo_16
+  - first:
+      213: 2704568579226278376
+    second: FetzerGames Logo_17
+  - first:
+      213: 9120533649417559326
+    second: FetzerGames Logo_18
+  - first:
+      213: -2980780968690016175
+    second: FetzerGames Logo_19
+  - first:
+      213: 3192152465976860687
+    second: FetzerGames Logo_20
+  - first:
+      213: -850206984619338233
+    second: FetzerGames Logo_21
+  - first:
+      213: 8470171101712794014
+    second: FetzerGames Logo_22
+  - first:
+      213: -7328987966056573492
+    second: FetzerGames Logo_23
+  - first:
+      213: 4720456400292085271
+    second: FetzerGames Logo_24
+  - first:
+      213: 2331942703229798004
+    second: FetzerGames Logo_25
+  - first:
+      213: -3023447090385850859
+    second: FetzerGames Logo_26
+  - first:
+      213: -6356240672753346270
+    second: FetzerGames Logo_27
+  - first:
+      213: -2818873216147395049
+    second: FetzerGames Logo_28
+  - first:
+      213: -1620885489224769358
+    second: FetzerGames Logo_29
+  - first:
+      213: -3520706919313149913
+    second: FetzerGames Logo_30
+  - first:
+      213: 7995805820321348922
+    second: FetzerGames Logo_31
+  - first:
+      213: 8679664889929210444
+    second: FetzerGames Logo_32
+  - first:
+      213: 3855709698706603083
+    second: FetzerGames Logo_33
+  - first:
+      213: 7706791943287710964
+    second: FetzerGames Logo_34
+  - first:
+      213: -7637851021276552895
+    second: FetzerGames Logo_35
+  - first:
+      213: 8808623837687608592
+    second: FetzerGames Logo_36
+  - first:
+      213: 3660274558013310009
+    second: FetzerGames Logo_37
+  - first:
+      213: -6127331759555845151
+    second: FetzerGames Logo_38
+  - first:
+      213: -1022453379824980507
+    second: FetzerGames Logo_39
+  - first:
+      213: 6455503580032043877
+    second: FetzerGames Logo_40
+  - first:
+      213: -906362632587506951
+    second: FetzerGames Logo_41
+  - first:
+      213: -4200869266628465442
+    second: FetzerGames Logo_42
+  - first:
+      213: 5235732053684796802
+    second: FetzerGames Logo_43
+  - first:
+      213: -7308396172355329335
+    second: FetzerGames Logo_44
+  - first:
+      213: 5735347449756307580
+    second: FetzerGames Logo_45
+  - first:
+      213: 5431166881911977973
+    second: FetzerGames Logo_46
+  - first:
+      213: 7161870595050866485
+    second: FetzerGames Logo_47
+  - first:
+      213: -2524488785975350098
+    second: FetzerGames Logo_48
+  - first:
+      213: 4947607356011422346
+    second: FetzerGames Logo_49
+  - first:
+      213: -7341208357416598725
+    second: FetzerGames Logo_50
+  - first:
+      213: -7407960885552146625
+    second: FetzerGames Logo_51
+  - first:
+      213: -9108828105861513651
+    second: FetzerGames Logo_52
+  - first:
+      213: 2763590685265905631
+    second: FetzerGames Logo_53
+  - first:
+      213: 3889036632245588629
+    second: FetzerGames Logo_54
+  - first:
+      213: -9073015973654850290
+    second: FetzerGames Logo_55
+  - first:
+      213: -5708805810271731020
+    second: FetzerGames Logo_56
+  - first:
+      213: 6957731871747018315
+    second: FetzerGames Logo_57
+  - first:
+      213: 2986909875076419456
+    second: FetzerGames Logo_58
+  - first:
+      213: -6159127306618037232
+    second: FetzerGames Logo_59
+  - first:
+      213: 3884875425318446483
+    second: FetzerGames Logo_60
+  - first:
+      213: 97760373778804606
+    second: FetzerGames Logo_61
+  - first:
+      213: -521115686225098933
+    second: FetzerGames Logo_62
+  - first:
+      213: 6496227975216627276
+    second: FetzerGames Logo_63
+  - first:
+      213: 9196308699625128377
+    second: FetzerGames Logo_64
+  - first:
+      213: 6254079433479752166
+    second: FetzerGames Logo_65
+  - first:
+      213: 569402173978041784
+    second: FetzerGames Logo_66
+  - first:
+      213: -1760114105053990637
+    second: FetzerGames Logo_67
+  - first:
+      213: -6174363596220947683
+    second: FetzerGames Logo_68
+  - first:
+      213: 2790279674134675921
+    second: FetzerGames Logo_69
+  - first:
+      213: 2293488634746329822
+    second: FetzerGames Logo_70
+  - first:
+      213: -5051134684985910493
+    second: FetzerGames Logo_71
+  - first:
+      213: -7431841297833932873
+    second: FetzerGames Logo_72
+  - first:
+      213: 6521437161013272497
+    second: FetzerGames Logo_73
+  - first:
+      213: 3085516714944319459
+    second: FetzerGames Logo_74
+  - first:
+      213: 1399557765558483078
+    second: FetzerGames Logo_75
+  - first:
+      213: -7235221680498281728
+    second: FetzerGames Logo_76
+  - first:
+      213: -1098582997709925890
+    second: FetzerGames Logo_77
+  - first:
+      213: -9010844188016225040
+    second: FetzerGames Logo_78
+  - first:
+      213: -7413372358478759775
+    second: FetzerGames Logo_79
+  - first:
+      213: -9128935445266796670
+    second: FetzerGames Logo_80
+  - first:
+      213: 7425693240812210271
+    second: FetzerGames Logo_81
+  - first:
+      213: -3398799616865845747
+    second: FetzerGames Logo_82
+  - first:
+      213: 3429285359737247910
+    second: FetzerGames Logo_83
+  - first:
+      213: 8116060149159942776
+    second: FetzerGames Logo_84
+  - first:
+      213: -2098754696817838245
+    second: FetzerGames Logo_85
+  - first:
+      213: 2703371702952588602
+    second: FetzerGames Logo_86
+  - first:
+      213: -6230002241522150729
+    second: FetzerGames Logo_87
+  - first:
+      213: 651910133509607659
+    second: FetzerGames Logo_88
+  - first:
+      213: 6285247677094508142
+    second: FetzerGames Logo_89
+  - first:
+      213: 7713785345897022073
+    second: FetzerGames Logo_90
+  - first:
+      213: -7656256158957494211
+    second: FetzerGames Logo_91
+  - first:
+      213: -916323117465526468
+    second: FetzerGames Logo_92
+  - first:
+      213: -5151563559443620241
+    second: FetzerGames Logo_93
+  - first:
+      213: -6822960566190083571
+    second: FetzerGames Logo_94
+  - first:
+      213: -5148682855554147475
+    second: FetzerGames Logo_95
+  - first:
+      213: -8946928589551091490
+    second: FetzerGames Logo_96
+  - first:
+      213: 8703637953889807695
+    second: FetzerGames Logo_97
+  - first:
+      213: 805281092453606492
+    second: FetzerGames Logo_98
+  - first:
+      213: 3760065465951410445
+    second: FetzerGames Logo_99
+  - first:
+      213: -4730123089839769244
+    second: FetzerGames Logo_100
+  - first:
+      213: 3974524647345918332
+    second: FetzerGames Logo_101
+  - first:
+      213: -8169779571188889117
+    second: FetzerGames Logo_102
+  - first:
+      213: 316650854422675701
+    second: FetzerGames Logo_103
+  - first:
+      213: 2584689653819138325
+    second: FetzerGames Logo_104
+  - first:
+      213: -1828232003095655590
+    second: FetzerGames Logo_105
+  - first:
+      213: -6767956358705356936
+    second: FetzerGames Logo_106
+  - first:
+      213: 6260373443526062323
+    second: FetzerGames Logo_107
+  - first:
+      213: -2165400701933668061
+    second: FetzerGames Logo_108
+  - first:
+      213: -1021996360548825738
+    second: FetzerGames Logo_109
+  - first:
+      213: 119222309986179797
+    second: FetzerGames Logo_110
+  - first:
+      213: -61917828273260762
+    second: FetzerGames Logo_111
+  - first:
+      213: 6756529931635660269
+    second: FetzerGames Logo_112
+  - first:
+      213: 8721759260544771271
+    second: FetzerGames Logo_113
+  - first:
+      213: 3324257732608397025
+    second: FetzerGames Logo_114
+  - first:
+      213: -5479865432337353452
+    second: FetzerGames Logo_115
+  - first:
+      213: 8135343535206617584
+    second: FetzerGames Logo_116
+  - first:
+      213: 4445692256701818558
+    second: FetzerGames Logo_117
+  - first:
+      213: -3634590699584201930
+    second: FetzerGames Logo_118
+  - first:
+      213: -6248386339429634738
+    second: FetzerGames Logo_119
+  - first:
+      213: 2380350456957590527
+    second: FetzerGames Logo_120
+  - first:
+      213: -200024325961975470
+    second: FetzerGames Logo_121
+  - first:
+      213: -9005204140901836125
+    second: FetzerGames Logo_122
+  - first:
+      213: 8369058066579269169
+    second: FetzerGames Logo_123
+  - first:
+      213: 3679033860437648225
+    second: FetzerGames Logo_124
+  - first:
+      213: 1600628418243841303
+    second: FetzerGames Logo_125
+  - first:
+      213: 462699467938764984
+    second: FetzerGames Logo_126
+  - first:
+      213: 8574353312573069969
+    second: FetzerGames Logo_127
+  - first:
+      213: 98283778395438345
+    second: FetzerGames Logo_128
+  - first:
+      213: -6036511599553373444
+    second: FetzerGames Logo_129
+  - first:
+      213: 8782958452559988012
+    second: FetzerGames Logo_130
+  - first:
+      213: -4561617002050003635
+    second: FetzerGames Logo_131
+  - first:
+      213: -8126405911461137881
+    second: FetzerGames Logo_132
+  - first:
+      213: 1642094198150295685
+    second: FetzerGames Logo_133
+  - first:
+      213: -3903704604221277382
+    second: FetzerGames Logo_134
+  - first:
+      213: -8585763091915469174
+    second: FetzerGames Logo_135
+  - first:
+      213: -5834651576011445205
+    second: FetzerGames Logo_136
+  - first:
+      213: 2088455484059234594
+    second: FetzerGames Logo_137
+  - first:
+      213: 465249943073723099
+    second: FetzerGames Logo_138
+  - first:
+      213: 3998876143579675393
+    second: FetzerGames Logo_139
+  - first:
+      213: 7897886551758941296
+    second: FetzerGames Logo_140
+  - first:
+      213: 4135129259153839721
+    second: FetzerGames Logo_141
+  - first:
+      213: 3948291018993388675
+    second: FetzerGames Logo_142
+  - first:
+      213: 7541157514237759662
+    second: FetzerGames Logo_143
+  - first:
+      213: 2878625530803468542
+    second: FetzerGames Logo_144
+  - first:
+      213: -6786412832043068603
+    second: FetzerGames Logo_145
+  - first:
+      213: 6255943075140073232
+    second: FetzerGames Logo_146
+  - first:
+      213: -2304833857153011416
+    second: FetzerGames Logo_147
+  - first:
+      213: 325457729434850035
+    second: FetzerGames Logo_148
+  - first:
+      213: -7963400640256763370
+    second: FetzerGames Logo_149
+  - first:
+      213: -538994909414187920
+    second: FetzerGames Logo_150
+  - first:
+      213: 8883358025726827746
+    second: FetzerGames Logo_151
+  - first:
+      213: -3896300215503887800
+    second: FetzerGames Logo_152
+  - first:
+      213: -6940127416421835391
+    second: FetzerGames Logo_153
+  - first:
+      213: -6400565271615194612
+    second: FetzerGames Logo_154
+  - first:
+      213: -2124769677969945803
+    second: FetzerGames Logo_155
+  - first:
+      213: 2860679225323801101
+    second: FetzerGames Logo_156
+  - first:
+      213: -4127112837560767706
+    second: FetzerGames Logo_157
+  - first:
+      213: 6370255524034372120
+    second: FetzerGames Logo_158
+  - first:
+      213: -8045459627667873403
+    second: FetzerGames Logo_159
+  - first:
+      213: 826421228967759173
+    second: FetzerGames Logo_160
+  - first:
+      213: -4429385352746434473
+    second: FetzerGames Logo_161
+  - first:
+      213: -7831659007356140261
+    second: FetzerGames Logo_162
+  - first:
+      213: -4067627191488010502
+    second: FetzerGames Logo_163
+  - first:
+      213: 9156014322522241875
+    second: FetzerGames Logo_164
+  - first:
+      213: 561825339715226841
+    second: FetzerGames Logo_165
+  - first:
+      213: -4904214436112843207
+    second: FetzerGames Logo_166
+  - first:
+      213: -5343839205172326616
+    second: FetzerGames Logo_167
+  - first:
+      213: -6972052489136400483
+    second: FetzerGames Logo_168
+  - first:
+      213: 5508626477756644915
+    second: FetzerGames Logo_169
+  - first:
+      213: -3317707073971110477
+    second: FetzerGames Logo_170
+  - first:
+      213: 2032835089596314151
+    second: FetzerGames Logo_171
+  - first:
+      213: 7169568188751077365
+    second: FetzerGames Logo_172
+  - first:
+      213: 1141840995655171733
+    second: FetzerGames Logo_173
+  - first:
+      213: 8864012645573591846
+    second: FetzerGames Logo_174
+  - first:
+      213: -1659387215503753064
+    second: FetzerGames Logo_175
+  - first:
+      213: 4223779895844321566
+    second: FetzerGames Logo_176
+  - first:
+      213: -8226833443173255273
+    second: FetzerGames Logo_177
+  - first:
+      213: -3567935719680998069
+    second: FetzerGames Logo_178
+  - first:
+      213: -239506556508208083
+    second: FetzerGames Logo_179
+  - first:
+      213: -4133860408028276017
+    second: FetzerGames Logo_180
+  - first:
+      213: -2467254959042274385
+    second: FetzerGames Logo_181
+  - first:
+      213: -5503715980463617456
+    second: FetzerGames Logo_182
+  - first:
+      213: -6315593137965405487
+    second: FetzerGames Logo_183
+  - first:
+      213: -2550578210053763773
+    second: FetzerGames Logo_184
+  - first:
+      213: 3591026919873476690
+    second: FetzerGames Logo_185
+  - first:
+      213: 466488514207382267
+    second: FetzerGames Logo_186
+  - first:
+      213: -5060434363337461569
+    second: FetzerGames Logo_187
+  - first:
+      213: 3618924323516959268
+    second: FetzerGames Logo_188
+  - first:
+      213: -8796695028893642063
+    second: FetzerGames Logo_189
+  - first:
+      213: -7429935045853454415
+    second: FetzerGames Logo_190
+  - first:
+      213: 6832754416595639995
+    second: FetzerGames Logo_191
+  - first:
+      213: -8020035840448852080
+    second: FetzerGames Logo_192
+  - first:
+      213: 3473827821671887171
+    second: FetzerGames Logo_193
+  - first:
+      213: -7582612623827403103
+    second: FetzerGames Logo_194
+  - first:
+      213: 5658402185588745508
+    second: FetzerGames Logo_195
+  - first:
+      213: -1393558133635826532
+    second: FetzerGames Logo_196
+  - first:
+      213: 9080293163492403426
+    second: FetzerGames Logo_197
+  - first:
+      213: -7362473639408614523
+    second: FetzerGames Logo_198
+  - first:
+      213: 3790902074498991284
+    second: FetzerGames Logo_199
+  - first:
+      213: 1316593061641936883
+    second: FetzerGames Logo_200
+  - first:
+      213: 8518350335863028547
+    second: FetzerGames Logo_201
+  - first:
+      213: -5711220047315276727
+    second: FetzerGames Logo_202
+  - first:
+      213: 8697756613902583103
+    second: FetzerGames Logo_203
+  - first:
+      213: 2408795906928814934
+    second: FetzerGames Logo_204
+  - first:
+      213: -1503678173019807608
+    second: FetzerGames Logo_205
+  - first:
+      213: 5476481396426144403
+    second: FetzerGames Logo_206
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FetzerGames Logo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 907
+        width: 43
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6a61035ee9e2be0800000000000000
+      internalID: -1500086918676306263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 970
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4aba24b5d5ce22a0800000000000000
+      internalID: -6760248468995130802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1001
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6115c00e1f13cd350800000000000000
+      internalID: 6042759714940145942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 964
+        width: 180
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b2b6af7987bfde0800000000000000
+      internalID: -1298311473429533890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1014
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76511dc0274fc0080800000000000000
+      internalID: -9219725566455769753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 964
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470ec40762cc26190800000000000000
+      internalID: -7970583925027446668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 963
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f6a7950612dea50800000000000000
+      internalID: 6551929730595712894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_7
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 966
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c28596c98cd3730800000000000000
+      internalID: 3980558219773226019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_8
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 962
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583991e5e7e452dd0800000000000000
+      internalID: -2511514912537603195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 958
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6ecebf3de03d350800000000000000
+      internalID: 6040187828861462204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 964
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f940e584ef0a710800000000000000
+      internalID: 1702640245914509145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_11
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 959
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97b6deef36e48350800000000000000
+      internalID: 6018188164338202522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 969
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d51df3506ab1990800000000000000
+      internalID: -7414149820059656824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 995
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd655ab67ea5f4e0800000000000000
+      internalID: -1948459438812336712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_14
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 995
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79bde679a62e8340800000000000000
+      internalID: 4867870756520704382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_15
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 964
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e4442681e0a35f0800000000000000
+      internalID: -776292487877341675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_16
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 963
+        width: 94
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3955ea23753497b0800000000000000
+      internalID: -5218487299458377413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_17
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 991
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9177b1bce888520800000000000000
+      internalID: 2704568579226278376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_18
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1004
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dd78f0805a29e70800000000000000
+      internalID: 9120533649417559326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_19
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 958
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150acf7708322a6d0800000000000000
+      internalID: -2980780968690016175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_20
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 953
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00207b41cdcc4c20800000000000000
+      internalID: 3192152465976860687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_21
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1006
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706553880457334f0800000000000000
+      internalID: -850206984619338233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_22
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 999
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91ce587db71c8570800000000000000
+      internalID: 8470171101712794014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_23
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 964
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5d51886443a4a90800000000000000
+      internalID: -7328987966056573492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 963
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ef025061e628140800000000000000
+      internalID: 4720456400292085271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_25
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 971
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476839e8889bc5020800000000000000
+      internalID: 2331942703229798004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_26
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1011
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51eec54e3ee8a06d0800000000000000
+      internalID: -3023447090385850859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_27
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1007
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22995a1f8c81ac7a0800000000000000
+      internalID: -6356240672753346270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_28
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1016
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71eeba4beb951e8d0800000000000000
+      internalID: -2818873216147395049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_29
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 998
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b02c214c357189e0800000000000000
+      internalID: -1620885489224769358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_30
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 979
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720741cd5bfe32fc0800000000000000
+      internalID: -3520706919313149913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_31
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1009
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d314da70fc6fe60800000000000000
+      internalID: 7995805820321348922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_32
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 963
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a19a50b3d547870800000000000000
+      internalID: 8679664889929210444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_33
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1016
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c7f64ea8b328530800000000000000
+      internalID: 3855709698706603083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1014
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4a189a07604fa60800000000000000
+      internalID: 7706791943287710964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_35
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1007
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141e47596f6e00690800000000000000
+      internalID: -7637851021276552895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_36
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1007
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0157865d5b48e3a70800000000000000
+      internalID: 8808623837687608592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_37
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 962
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93488ca4158ebc230800000000000000
+      internalID: 3660274558013310009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_38
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 963
+        width: 119
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e364ba8a3857faa0800000000000000
+      internalID: -6127331759555845151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_39
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 966
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed622871148fc1f0800000000000000
+      internalID: -1022453379824980507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_40
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 978
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b8216ad4e869950800000000000000
+      internalID: 6455503580032043877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_41
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 968
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa0feedcf3fb63f0800000000000000
+      internalID: -906362632587506951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_42
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 957
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc21ceb8a383b5c0800000000000000
+      internalID: -4200869266628465442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_43
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 992
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d320f009e09a840800000000000000
+      internalID: 5235732053684796802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_44
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 975
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2afec176c539a90800000000000000
+      internalID: -7308396172355329335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_45
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 958
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70da2e4e1c089f40800000000000000
+      internalID: 5735347449756307580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_46
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 996
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7ba38e0816f5b40800000000000000
+      internalID: 5431166881911977973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_47
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 989
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53782596c53146360800000000000000
+      internalID: 7161870595050866485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_48
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 982
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac6b7013d637fcd0800000000000000
+      internalID: -2524488785975350098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_49
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 976
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82ab2f3dae69a440800000000000000
+      internalID: 4947607356011422346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_50
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 963
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b330e02f4e9ce1a90800000000000000
+      internalID: -7341208357416598725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_51
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 972
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f371daad2d2a13990800000000000000
+      internalID: -7407960885552146625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_52
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1000
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4eb70e2911f69180800000000000000
+      internalID: -9108828105861513651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_53
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 977
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd74adb061f3a5620800000000000000
+      internalID: 2763590685265905631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_54
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 970
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592da774632a8f530800000000000000
+      internalID: 3889036632245588629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_55
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 961
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e059bd8fa0c261280800000000000000
+      internalID: -9073015973654850290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_56
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 968
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b24113bc5f36c0b0800000000000000
+      internalID: -5708805810271731020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_57
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 966
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e05e11644de8060800000000000000
+      internalID: 6957731871747018315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_58
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1007
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f4900c4b2a37920800000000000000
+      internalID: 2986909875076419456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_59
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1005
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c9f9ad852668aa0800000000000000
+      internalID: -6159127306618037232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_60
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 963
+        width: 90
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39520cacd99d9e530800000000000000
+      internalID: 3884875425318446483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_61
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 997
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fe130ca805b5100800000000000000
+      internalID: 97760373778804606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_62
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 994
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b474bab5b00a4c8f0800000000000000
+      internalID: -521115686225098933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_63
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 988
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4efdbaccec372a50800000000000000
+      internalID: 6496227975216627276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_64
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 987
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b18df5c90adf9f70800000000000000
+      internalID: 9196308699625128377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_65
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 999
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e903a5fb14fac650800000000000000
+      internalID: 6254079433479752166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_66
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 991
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bddb4aa24ce6e700800000000000000
+      internalID: 569402173978041784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_67
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 978
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3113a140c81d297e0800000000000000
+      internalID: -1760114105053990637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_68
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 968
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13a52db501405aa0800000000000000
+      internalID: -6174363596220947683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_69
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 962
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d14ac0849019b620800000000000000
+      internalID: 2790279674134675921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_70
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 958
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda537a03cb14df10800000000000000
+      internalID: 2293488634746329822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_71
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 959
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b92cc14c3c6e9b0800000000000000
+      internalID: -5051134684985910493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_72
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 934
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7c78717bbccd890800000000000000
+      internalID: -7431841297833932873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_73
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 964
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf5a3fbb8cc08a50800000000000000
+      internalID: 6521437161013272497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_74
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 970
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef49ceba15f1da20800000000000000
+      internalID: 3085516714944319459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_75
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 958
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688b0c26f5a3c6310800000000000000
+      internalID: 1399557765558483078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_76
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 722
+        width: 185
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003f1b62734579b90800000000000000
+      internalID: -7235221680498281728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_77
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 985
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef15739859c01c0f0800000000000000
+      internalID: -1098582997709925890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_78
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 942
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f456e6d3fc03f280800000000000000
+      internalID: -9010844188016225040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_79
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 950
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a87c212e196e1990800000000000000
+      internalID: -7413372358478759775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_80
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 953
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f666764918f4180800000000000000
+      internalID: -9128935445266796670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_81
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 952
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5881a5d8ac5d0760800000000000000
+      internalID: 7425693240812210271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_82
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 953
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e3afd81c905d0d0800000000000000
+      internalID: -3398799616865845747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_83
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 955
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a816949dd4479f20800000000000000
+      internalID: 3429285359737247910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_84
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 952
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ad16674b902a070800000000000000
+      internalID: 8116060149159942776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_85
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 939
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b577d7119b9bfd2e0800000000000000
+      internalID: -2098754696817838245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_86
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 946
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35f452ad3e448520800000000000000
+      internalID: 2703371702952588602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b25f2428f59a89a0800000000000000
+      internalID: -6230002241522150729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 888
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0515dffcc0c0900800000000000000
+      internalID: 651910133509607659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 867
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66319e267fa93750800000000000000
+      internalID: 6285247677094508142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 851
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9724ec717eedc0b60800000000000000
+      internalID: 7713785345897022073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 843
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3021f786938fb590800000000000000
+      internalID: -7656256158957494211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_92
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 850
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f1df3caf09843f0800000000000000
+      internalID: -916323117465526468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_93
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 841
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e1481ac38f188b0800000000000000
+      internalID: -5151563559443620241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 839
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02fdbfb389ff41a0800000000000000
+      internalID: -6822960566190083571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 808
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b1d85c8343c88b0800000000000000
+      internalID: -5148682855554147475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_96
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 819
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed04505c9df16d380800000000000000
+      internalID: -8946928589551091490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_97
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 824
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4da53fea9889c870800000000000000
+      internalID: 8703637953889807695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_98
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 811
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54290413eeec2b00800000000000000
+      internalID: 805281092453606492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 791
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d095f3e9e9f6e2430800000000000000
+      internalID: 3760065465951410445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 774
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4693a3e6c1a3b5eb0800000000000000
+      internalID: -4730123089839769244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_101
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 795
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71961cdb19582730800000000000000
+      internalID: 3974524647345918332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_102
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 800
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e90b0ee3cc1f9e80800000000000000
+      internalID: -8169779571188889117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_103
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 790
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f000bf3648f46400800000000000000
+      internalID: 316650854422675701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_104
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 782
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511648ebb89aed320800000000000000
+      internalID: 2584689653819138325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_105
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 798
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b8b78fda0d0a6e0800000000000000
+      internalID: -1828232003095655590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_106
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 769
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f5508cc836312a0800000000000000
+      internalID: -6767956358705356936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_107
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 776
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0f8ae5a7051e650800000000000000
+      internalID: 6260373443526062323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_108
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 771
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329bcdcc883f2f1e0800000000000000
+      internalID: -2165400701933668061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 764
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675cebf89b321d1f0800000000000000
+      internalID: -1021996360548825738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_110
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 763
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da170c2f0097a100800000000000000
+      internalID: 119222309986179797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 646
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62732803016042ff0800000000000000
+      internalID: -61917828273260762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 655
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de51079dc2404cd50800000000000000
+      internalID: 6756529931635660269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 615
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4ae3d66d9e90970800000000000000
+      internalID: 8721759260544771271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_114
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 626
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee08fd8bc2222e20800000000000000
+      internalID: 3324257732608397025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 603
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415f6904c6b93f3b0800000000000000
+      internalID: -5479865432337353452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_116
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 595
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1d2c5a7db86e070800000000000000
+      internalID: 8135343535206617584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_117
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 601
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6aa6d9d8542bd30800000000000000
+      internalID: 4445692256701818558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 571
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b585ff3075f8dc0800000000000000
+      internalID: -3634590699584201930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_119
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 592
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4da4eacab54949a0800000000000000
+      internalID: -6248386339429634738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_120
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 563
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb55e30124b80120800000000000000
+      internalID: 2380350456957590527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_121
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 572
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25979907fee593df0800000000000000
+      internalID: -200024325961975470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa5ba3ab86170380800000000000000
+      internalID: -9005204140901836125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_123
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 562
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136231b68fdd42470800000000000000
+      internalID: 8369058066579269169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_124
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 550
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1632500cdcd8e0330800000000000000
+      internalID: 3679033860437648225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_125
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 540
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71dc1ded013963610800000000000000
+      internalID: 1600628418243841303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_126
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 529
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b89040f6b6db6600800000000000000
+      internalID: 462699467938764984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_127
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 312
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a9c9ea8e83ef670800000000000000
+      internalID: 8574353312573069969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_128
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 286
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d7172639c2d5100800000000000000
+      internalID: 98283778395438345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_129
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 260
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa981adea00a3ca0800000000000000
+      internalID: -6036511599553373444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_130
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 262
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c254ad1bd2653e970800000000000000
+      internalID: 8782958452559988012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_131
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 219
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d5d6f4181e1b0c0800000000000000
+      internalID: -4561617002050003635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_132
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 216
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72279ba01e4393f80800000000000000
+      internalID: -8126405911461137881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_133
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 226
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5807a7819f3e9c610800000000000000
+      internalID: 1642094198150295685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_134
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 210
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b755d585143d9c0800000000000000
+      internalID: -3903704604221277382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_135
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 198
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e08bc05fd39d880800000000000000
+      internalID: -8585763091915469174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_136
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 186
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c2aaf0e47270fa0800000000000000
+      internalID: -5834651576011445205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_137
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 161
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2213198923fabfc10800000000000000
+      internalID: 2088455484059234594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_138
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 137
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd21ea4bb56e47600800000000000000
+      internalID: 465249943073723099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bb9d66aacde7730800000000000000
+      internalID: 3998876143579675393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_140
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 103
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c2de959fdea9d60800000000000000
+      internalID: 7897886551758941296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9665030072ee26930800000000000000
+      internalID: 4135129259153839721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_142
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 132
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c47f843c52bc630800000000000000
+      internalID: 3948291018993388675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_143
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 92
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0d86fedc297a860800000000000000
+      internalID: 7541157514237759662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_144
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 89
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef839ec2baee2f720800000000000000
+      internalID: 2878625530803468542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5439be63c71d1d1a0800000000000000
+      internalID: -6786412832043068603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_146
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017f9c8d41391d650800000000000000
+      internalID: 6255943075140073232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_147
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821f91681d59300e0800000000000000
+      internalID: -2304833857153011416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_148
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f29e50a412448400800000000000000
+      internalID: 325457729434850035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_149
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 77
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a90614f415c7190800000000000000
+      internalID: -7963400640256763370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_150
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c9f905cfa1588f0800000000000000
+      internalID: -538994909414187920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_151
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 71
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec1010fe07084b70800000000000000
+      internalID: 8883358025726827746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_152
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 75
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842ec94f89f8de9c0800000000000000
+      internalID: -3896300215503887800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_153
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 68
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d1a3892e6bfaf90800000000000000
+      internalID: -6940127416421835391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_154
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 82
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0abcaf0ccf9c27a0800000000000000
+      internalID: -6400565271615194612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_155
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 68
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b84134c3d4382e0800000000000000
+      internalID: -2124769677969945803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_156
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 80
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ac3c1599c23b720800000000000000
+      internalID: 2860679225323801101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_157
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 81
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b6c399dbc89b6c0800000000000000
+      internalID: -4127112837560767706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_158
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 68
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812e986e5a1b76850800000000000000
+      internalID: 6370255524034372120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_159
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 66
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5812c166819c85090800000000000000
+      internalID: -8045459627667873403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_160
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 60
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d077baab9087b00800000000000000
+      internalID: 826421228967759173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_161
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 70
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7500b345d79a782c0800000000000000
+      internalID: -4429385352746434473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_162
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 63
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b158c8070ab505390800000000000000
+      internalID: -7831659007356140261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_163
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 162
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af623acde92ec87c0800000000000000
+      internalID: -4067627191488010502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_164
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 51
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bb3540482b01f70800000000000000
+      internalID: 9156014322522241875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_165
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 57
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc0a877b210cc700800000000000000
+      internalID: 561825339715226841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_166
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 57
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93eb62934fab0fbb0800000000000000
+      internalID: -4904214436112843207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_167
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 53
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fc5e64e8ed6d5b0800000000000000
+      internalID: -5343839205172326616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_168
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 60
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9795ad533b4e3f90800000000000000
+      internalID: -6972052489136400483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_169
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 27
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33efef67892927c40800000000000000
+      internalID: 5508626477756644915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_170
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 45
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdb6238ef225f1d0800000000000000
+      internalID: -3317707073971110477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_171
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 34
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722765a5eb4163c10800000000000000
+      internalID: 2032835089596314151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_172
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 44
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffd27b184c6f7360800000000000000
+      internalID: 7169568188751077365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_173
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 45
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e3108f552a8df00800000000000000
+      internalID: 1141840995655171733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_174
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 45
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6230cff998c430b70800000000000000
+      internalID: 8864012645573591846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_175
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 16
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890031b8e1ca8f8e0800000000000000
+      internalID: -1659387215503753064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_176
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 26
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19bc3dcf61ed9a30800000000000000
+      internalID: 4223779895844321566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_177
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 23
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797ba51329a64dd80800000000000000
+      internalID: -8226833443173255273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_178
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 19
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b458cfedd552c7ec0800000000000000
+      internalID: -3567935719680998069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_179
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 28
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2483f94e0a1dacf0800000000000000
+      internalID: -239506556508208083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_180
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 27
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca5c6c6cd391a6c0800000000000000
+      internalID: -4133860408028276017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_181
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 13
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabd6f3dfac82cdd0800000000000000
+      internalID: -2467254959042274385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_182
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 21
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a43d7c97fde93b0800000000000000
+      internalID: -5503715980463617456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_183
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da6da1a0818a58a0800000000000000
+      internalID: -6315593137965405487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_184
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dc4e9a1a68a9cd0800000000000000
+      internalID: -2550578210053763773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_185
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 17
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2587ce125f3e5d130800000000000000
+      internalID: 3591026919873476690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_186
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa712505dc497600800000000000000
+      internalID: 466488514207382267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_187
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0371402c9b5c9b0800000000000000
+      internalID: -5060434363337461569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_188
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42acf349f70093230800000000000000
+      internalID: 3618924323516959268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_189
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b299556a7cdbe580800000000000000
+      internalID: -8796695028893642063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_190
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 0
+        width: 73
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfdda7f07193e890800000000000000
+      internalID: -7429935045853454415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_191
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 2
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe1aaeb0f1d2de50800000000000000
+      internalID: 6832754416595639995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_192
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f052425eb13b090800000000000000
+      internalID: -8020035840448852080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_193
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3413f99aff3853030800000000000000
+      internalID: 3473827821671887171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_194
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aeff573ef525c690800000000000000
+      internalID: -7582612623827403103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_195
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425af4ceecea68e40800000000000000
+      internalID: 5658402185588745508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_196
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cb7c6c24619ace0800000000000000
+      internalID: -1393558133635826532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_197
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e86f52d58ea30e70800000000000000
+      internalID: 9080293163492403426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_198
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 3
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5834fd6ab3d33d990800000000000000
+      internalID: -7362473639408614523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_199
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4cdc80a5dfb9430800000000000000
+      internalID: 3790902074498991284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_200
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 0
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff59e8f96a754210800000000000000
+      internalID: 1316593061641936883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_201
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bf1719f72473670800000000000000
+      internalID: 8518350335863028547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_202
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ceea550abadb0b0800000000000000
+      internalID: -5711220047315276727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_203
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35c772ce83a4b870800000000000000
+      internalID: 8697756613902583103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_204
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b28e07d13cd6120800000000000000
+      internalID: 2408795906928814934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_205
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 0
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88065a02bacd12be0800000000000000
+      internalID: -1503678173019807608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FetzerGames Logo_206
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 0
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39af30d70de500c40800000000000000
+      internalID: 5476481396426144403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FetzerGames Logo_0: -1500086918676306263
+      FetzerGames Logo_1: -6760248468995130802
+      FetzerGames Logo_10: 1702640245914509145
+      FetzerGames Logo_100: -4730123089839769244
+      FetzerGames Logo_101: 3974524647345918332
+      FetzerGames Logo_102: -8169779571188889117
+      FetzerGames Logo_103: 316650854422675701
+      FetzerGames Logo_104: 2584689653819138325
+      FetzerGames Logo_105: -1828232003095655590
+      FetzerGames Logo_106: -6767956358705356936
+      FetzerGames Logo_107: 6260373443526062323
+      FetzerGames Logo_108: -2165400701933668061
+      FetzerGames Logo_109: -1021996360548825738
+      FetzerGames Logo_11: 6018188164338202522
+      FetzerGames Logo_110: 119222309986179797
+      FetzerGames Logo_111: -61917828273260762
+      FetzerGames Logo_112: 6756529931635660269
+      FetzerGames Logo_113: 8721759260544771271
+      FetzerGames Logo_114: 3324257732608397025
+      FetzerGames Logo_115: -5479865432337353452
+      FetzerGames Logo_116: 8135343535206617584
+      FetzerGames Logo_117: 4445692256701818558
+      FetzerGames Logo_118: -3634590699584201930
+      FetzerGames Logo_119: -6248386339429634738
+      FetzerGames Logo_12: -7414149820059656824
+      FetzerGames Logo_120: 2380350456957590527
+      FetzerGames Logo_121: -200024325961975470
+      FetzerGames Logo_122: -9005204140901836125
+      FetzerGames Logo_123: 8369058066579269169
+      FetzerGames Logo_124: 3679033860437648225
+      FetzerGames Logo_125: 1600628418243841303
+      FetzerGames Logo_126: 462699467938764984
+      FetzerGames Logo_127: 8574353312573069969
+      FetzerGames Logo_128: 98283778395438345
+      FetzerGames Logo_129: -6036511599553373444
+      FetzerGames Logo_13: -1948459438812336712
+      FetzerGames Logo_130: 8782958452559988012
+      FetzerGames Logo_131: -4561617002050003635
+      FetzerGames Logo_132: -8126405911461137881
+      FetzerGames Logo_133: 1642094198150295685
+      FetzerGames Logo_134: -3903704604221277382
+      FetzerGames Logo_135: -8585763091915469174
+      FetzerGames Logo_136: -5834651576011445205
+      FetzerGames Logo_137: 2088455484059234594
+      FetzerGames Logo_138: 465249943073723099
+      FetzerGames Logo_139: 3998876143579675393
+      FetzerGames Logo_14: 4867870756520704382
+      FetzerGames Logo_140: 7897886551758941296
+      FetzerGames Logo_141: 4135129259153839721
+      FetzerGames Logo_142: 3948291018993388675
+      FetzerGames Logo_143: 7541157514237759662
+      FetzerGames Logo_144: 2878625530803468542
+      FetzerGames Logo_145: -6786412832043068603
+      FetzerGames Logo_146: 6255943075140073232
+      FetzerGames Logo_147: -2304833857153011416
+      FetzerGames Logo_148: 325457729434850035
+      FetzerGames Logo_149: -7963400640256763370
+      FetzerGames Logo_15: -776292487877341675
+      FetzerGames Logo_150: -538994909414187920
+      FetzerGames Logo_151: 8883358025726827746
+      FetzerGames Logo_152: -3896300215503887800
+      FetzerGames Logo_153: -6940127416421835391
+      FetzerGames Logo_154: -6400565271615194612
+      FetzerGames Logo_155: -2124769677969945803
+      FetzerGames Logo_156: 2860679225323801101
+      FetzerGames Logo_157: -4127112837560767706
+      FetzerGames Logo_158: 6370255524034372120
+      FetzerGames Logo_159: -8045459627667873403
+      FetzerGames Logo_16: -5218487299458377413
+      FetzerGames Logo_160: 826421228967759173
+      FetzerGames Logo_161: -4429385352746434473
+      FetzerGames Logo_162: -7831659007356140261
+      FetzerGames Logo_163: -4067627191488010502
+      FetzerGames Logo_164: 9156014322522241875
+      FetzerGames Logo_165: 561825339715226841
+      FetzerGames Logo_166: -4904214436112843207
+      FetzerGames Logo_167: -5343839205172326616
+      FetzerGames Logo_168: -6972052489136400483
+      FetzerGames Logo_169: 5508626477756644915
+      FetzerGames Logo_17: 2704568579226278376
+      FetzerGames Logo_170: -3317707073971110477
+      FetzerGames Logo_171: 2032835089596314151
+      FetzerGames Logo_172: 7169568188751077365
+      FetzerGames Logo_173: 1141840995655171733
+      FetzerGames Logo_174: 8864012645573591846
+      FetzerGames Logo_175: -1659387215503753064
+      FetzerGames Logo_176: 4223779895844321566
+      FetzerGames Logo_177: -8226833443173255273
+      FetzerGames Logo_178: -3567935719680998069
+      FetzerGames Logo_179: -239506556508208083
+      FetzerGames Logo_18: 9120533649417559326
+      FetzerGames Logo_180: -4133860408028276017
+      FetzerGames Logo_181: -2467254959042274385
+      FetzerGames Logo_182: -5503715980463617456
+      FetzerGames Logo_183: -6315593137965405487
+      FetzerGames Logo_184: -2550578210053763773
+      FetzerGames Logo_185: 3591026919873476690
+      FetzerGames Logo_186: 466488514207382267
+      FetzerGames Logo_187: -5060434363337461569
+      FetzerGames Logo_188: 3618924323516959268
+      FetzerGames Logo_189: -8796695028893642063
+      FetzerGames Logo_19: -2980780968690016175
+      FetzerGames Logo_190: -7429935045853454415
+      FetzerGames Logo_191: 6832754416595639995
+      FetzerGames Logo_192: -8020035840448852080
+      FetzerGames Logo_193: 3473827821671887171
+      FetzerGames Logo_194: -7582612623827403103
+      FetzerGames Logo_195: 5658402185588745508
+      FetzerGames Logo_196: -1393558133635826532
+      FetzerGames Logo_197: 9080293163492403426
+      FetzerGames Logo_198: -7362473639408614523
+      FetzerGames Logo_199: 3790902074498991284
+      FetzerGames Logo_2: 6042759714940145942
+      FetzerGames Logo_20: 3192152465976860687
+      FetzerGames Logo_200: 1316593061641936883
+      FetzerGames Logo_201: 8518350335863028547
+      FetzerGames Logo_202: -5711220047315276727
+      FetzerGames Logo_203: 8697756613902583103
+      FetzerGames Logo_204: 2408795906928814934
+      FetzerGames Logo_205: -1503678173019807608
+      FetzerGames Logo_206: 5476481396426144403
+      FetzerGames Logo_21: -850206984619338233
+      FetzerGames Logo_22: 8470171101712794014
+      FetzerGames Logo_23: -7328987966056573492
+      FetzerGames Logo_24: 4720456400292085271
+      FetzerGames Logo_25: 2331942703229798004
+      FetzerGames Logo_26: -3023447090385850859
+      FetzerGames Logo_27: -6356240672753346270
+      FetzerGames Logo_28: -2818873216147395049
+      FetzerGames Logo_29: -1620885489224769358
+      FetzerGames Logo_3: -1298311473429533890
+      FetzerGames Logo_30: -3520706919313149913
+      FetzerGames Logo_31: 7995805820321348922
+      FetzerGames Logo_32: 8679664889929210444
+      FetzerGames Logo_33: 3855709698706603083
+      FetzerGames Logo_34: 7706791943287710964
+      FetzerGames Logo_35: -7637851021276552895
+      FetzerGames Logo_36: 8808623837687608592
+      FetzerGames Logo_37: 3660274558013310009
+      FetzerGames Logo_38: -6127331759555845151
+      FetzerGames Logo_39: -1022453379824980507
+      FetzerGames Logo_4: -9219725566455769753
+      FetzerGames Logo_40: 6455503580032043877
+      FetzerGames Logo_41: -906362632587506951
+      FetzerGames Logo_42: -4200869266628465442
+      FetzerGames Logo_43: 5235732053684796802
+      FetzerGames Logo_44: -7308396172355329335
+      FetzerGames Logo_45: 5735347449756307580
+      FetzerGames Logo_46: 5431166881911977973
+      FetzerGames Logo_47: 7161870595050866485
+      FetzerGames Logo_48: -2524488785975350098
+      FetzerGames Logo_49: 4947607356011422346
+      FetzerGames Logo_5: -7970583925027446668
+      FetzerGames Logo_50: -7341208357416598725
+      FetzerGames Logo_51: -7407960885552146625
+      FetzerGames Logo_52: -9108828105861513651
+      FetzerGames Logo_53: 2763590685265905631
+      FetzerGames Logo_54: 3889036632245588629
+      FetzerGames Logo_55: -9073015973654850290
+      FetzerGames Logo_56: -5708805810271731020
+      FetzerGames Logo_57: 6957731871747018315
+      FetzerGames Logo_58: 2986909875076419456
+      FetzerGames Logo_59: -6159127306618037232
+      FetzerGames Logo_6: 6551929730595712894
+      FetzerGames Logo_60: 3884875425318446483
+      FetzerGames Logo_61: 97760373778804606
+      FetzerGames Logo_62: -521115686225098933
+      FetzerGames Logo_63: 6496227975216627276
+      FetzerGames Logo_64: 9196308699625128377
+      FetzerGames Logo_65: 6254079433479752166
+      FetzerGames Logo_66: 569402173978041784
+      FetzerGames Logo_67: -1760114105053990637
+      FetzerGames Logo_68: -6174363596220947683
+      FetzerGames Logo_69: 2790279674134675921
+      FetzerGames Logo_7: 3980558219773226019
+      FetzerGames Logo_70: 2293488634746329822
+      FetzerGames Logo_71: -5051134684985910493
+      FetzerGames Logo_72: -7431841297833932873
+      FetzerGames Logo_73: 6521437161013272497
+      FetzerGames Logo_74: 3085516714944319459
+      FetzerGames Logo_75: 1399557765558483078
+      FetzerGames Logo_76: -7235221680498281728
+      FetzerGames Logo_77: -1098582997709925890
+      FetzerGames Logo_78: -9010844188016225040
+      FetzerGames Logo_79: -7413372358478759775
+      FetzerGames Logo_8: -2511514912537603195
+      FetzerGames Logo_80: -9128935445266796670
+      FetzerGames Logo_81: 7425693240812210271
+      FetzerGames Logo_82: -3398799616865845747
+      FetzerGames Logo_83: 3429285359737247910
+      FetzerGames Logo_84: 8116060149159942776
+      FetzerGames Logo_85: -2098754696817838245
+      FetzerGames Logo_86: 2703371702952588602
+      FetzerGames Logo_87: -6230002241522150729
+      FetzerGames Logo_88: 651910133509607659
+      FetzerGames Logo_89: 6285247677094508142
+      FetzerGames Logo_9: 6040187828861462204
+      FetzerGames Logo_90: 7713785345897022073
+      FetzerGames Logo_91: -7656256158957494211
+      FetzerGames Logo_92: -916323117465526468
+      FetzerGames Logo_93: -5151563559443620241
+      FetzerGames Logo_94: -6822960566190083571
+      FetzerGames Logo_95: -5148682855554147475
+      FetzerGames Logo_96: -8946928589551091490
+      FetzerGames Logo_97: 8703637953889807695
+      FetzerGames Logo_98: 805281092453606492
+      FetzerGames Logo_99: 3760065465951410445
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
