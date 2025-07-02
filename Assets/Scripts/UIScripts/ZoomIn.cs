@@ -99,7 +99,10 @@ public class ZoomIn : MonoBehaviour
         targetGroup.RemoveMember(left);
         targetGroup.RemoveMember(right);
         // FrameDamping, HorizontalDamping, VerticalDamping map to a single Vector3 Damping
-        composer.Damping = new Vector3(500f, 500f, 500f);
+        // Attempting component-wise assignment due to CS0029
+        composer.Damping.x = 500f;
+        composer.Damping.y = 500f;
+        composer.Damping.z = 500f;
     }
 
     public void Hide()
@@ -115,7 +118,7 @@ public class ZoomIn : MonoBehaviour
 
     private void OnDisable()
     {
-        cam.m_Lens = originalSettings;
+        cam.Lens = originalSettings; // Corrected m_Lens to Lens
     }
 
 }
